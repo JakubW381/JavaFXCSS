@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.modelcss.LoginSceneController">
+   <children>
+      <Text fx:id="welcomeText" layoutY="199.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" textOrigin="CENTER" wrappingWidth="600.0" />
+      <Button layoutX="14.0" layoutY="346.0" mnemonicParsing="false" onAction="#backButton" text="Main Page" />
+   </children>
+</AnchorPane>

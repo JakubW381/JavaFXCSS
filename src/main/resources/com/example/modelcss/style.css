@@ -1,0 +1,48 @@
+.root{
+    -fx-background-color: black;
+}
+#scene2{
+     -fx-font-size: 50px;
+     -fx-font-family: "Georgia";
+     -fx-fill: "white";
+     -fx-text-alignment: center;
+}
+#welcomeText{
+    -fx-font-size: 50px;
+    -fx-font-family: "Georgia";
+    -fx-fill: "white";
+}
+
+#usernameField{
+    -fx-background-color: black;
+    -fx-border-color: white;
+    -fx-text-fill: white;
+    -fx-font-family: "Georgia";
+}
+ #bodytext{
+     -fx-font-size: 20px;
+     -fx-font-family: "Georgia";
+     -fx-fill: "white";
+ }
+ #login{
+    -fx-font-size: 20px;
+    -fx-font-family: "Georgia";
+    -fx-fill: "white";
+    -fx-text-alignment: center;
+}
+ #header{
+     -fx-font-size: 50px;
+     -fx-font-family: "Georgia";
+     -fx-fill: "white";
+     -fx-text-alignment: center;
+ }
+ .button{
+     -fx-background-color: black; 
+     -fx-text-fill: "white";
+     -fx-font-family: "Times New Roman";
+     -fx-font-size: 20px;
+     -fx-border-radius: 0;
+     -fx-border-color:"white";
+ }
+
+
